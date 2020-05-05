@@ -1,0 +1,31 @@
+similarity=CS k=10 recall=34.60% mean=34.08 median=21.00
+similarity=CS k=20 recall=35.14% mean=30.62 median=19.00
+similarity=CS k=30 recall=34.42% mean=29.55 median=19.00
+similarity=CS k=40 recall=33.38% mean=28.73 median=19.00
+similarity=CS k=50 recall=32.02% mean=28.57 median=19.00
+similarity=CS k=70 recall=27.50% mean=29.40 median=21.00
+similarity=CS k=100 recall=22.72% mean=31.62 median=24.00
+
+similarity=ACS k=10 recall=29.24% mean=49.95 median=28.00
+similarity=ACS k=20 recall=29.71% mean=40.88 median=24.00
+similarity=ACS k=30 recall=29.84% mean=36.98 median=23.00
+similarity=ACS k=40 recall=30.26% mean=35.21 median=22.00
+similarity=ACS k=50 recall=29.17% mean=34.66 median=22.00
+similarity=ACS k=70 recall=27.37% mean=34.03 median=23.00
+similarity=ACS k=100 recall=23.32% mean=33.25 median=24.00
+
+similarity=JS k=10 recall=41.10% mean=29.34 median=16.00
+similarity=JS k=20 recall=42.92% mean=25.60 median=14.00
+similarity=JS k=30 recall=44.42% mean=23.58 median=13.00
+similarity=JS k=40 recall=45.00% mean=22.56 median=13.00
+similarity=JS k=50 recall=45.18% mean=22.03 median=13.00
+similarity=JS k=70 recall=44.97% mean=21.84 median=13.00
+similarity=JS k=100 recall=44.53% mean=21.99 median=13.00
+
+similarity=PMI k=10 recall=25.03% mean=55.34 median=36.00
+similarity=PMI k=20 recall=25.06% mean=47.74 median=30.00
+similarity=PMI k=30 recall=25.42% mean=44.00 median=28.00
+similarity=PMI k=40 recall=25.01% mean=42.14 median=28.00
+similarity=PMI k=50 recall=25.16% mean=40.54 median=27.00
+similarity=PMI k=70 recall=24.59% mean=38.35 median=26.00
+similarity=PMI k=100 recall=21.84% mean=42.90 median=30.00

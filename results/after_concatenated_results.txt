@@ -1,0 +1,3 @@
+mode=PCA similarity=CS multiply=20 recall=46.76% mean=27.65 median=12.00
+mode=PCA similarity=CS multiply=100 recall=46.14% mean=27.63 median=13.00
+mode=PCA similarity=CS multiply=1 recall=23.50% mean=42.12 median=31.00

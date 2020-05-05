@@ -1,0 +1,18 @@
+cuisine vector:
+recall=24.28% mean=41.61 median=30.00
+
+after:
+mode=PCA similarity=CS multiply=10 recall=46.30% mean=27.68 median=12.00
+mode=PCA similarity=CS multiply=15 recall=46.71% mean=27.55 median=12.00
+mode=PCA similarity=CS multiply=20 recall=46.95% mean=27.51 median=12.00
+mode=PCA similarity=CS multiply=25 recall=46.92% mean=27.38 median=12.00
+mode=PCA similarity=CS multiply=30 recall=47.00% mean=27.34 median=12.00
+mode=PCA similarity=CS multiply=35 recall=46.76% mean=27.31 median=12.00
+mode=PCA similarity=CS multiply=40 recall=46.69% mean=27.09 median=12.00
+mode=PCA similarity=CS multiply=45 recall=46.61% mean=27.10 median=12.00
+
+mode=PCA similarity=CS multiply=60 recall=46.76% mean=27.04 median=12.00
+mode=PCA similarity=CS multiply=80 recall=46.50% mean=27.00 median=12.00
+mode=PCA similarity=CS multiply=100 recall=46.37% mean=27.05 median=13.00
+mode=PCA similarity=CS multiply=120 recall=46.37% mean=27.03 median=13.00
+mode=PCA similarity=CS multiply=140 recall=45.75% mean=27.41 median=13.00

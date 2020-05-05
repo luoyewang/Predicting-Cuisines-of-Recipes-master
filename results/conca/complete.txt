@@ -1,0 +1,56 @@
+K = 35
+mode=BASE similarity=JS multiply=5 recall=29.35% mean=40.19 median=24.00
+mode=BASE similarity=PMI multiply=5 recall=28.57% mean=41.74 median=26.00
+mode=PCA similarity=CS multiply=5 recall=46.11% mean=28.29 median=12.00
+mode=PCA similarity=ACS multiply=5 recall=45.52% mean=29.29 median=12.00
+mode=PCA similarity=JS multiply=5 recall=45.41% mean=29.64 median=12.00
+mode=PCA similarity=PMI multiply=5 recall=45.13% mean=30.71 median=13.00
+mode=BASE similarity=CS multiply=10 recall=38.50% mean=26.40 median=16.00
+mode=BASE similarity=ACS multiply=10 recall=34.52% mean=34.77 median=19.00
+mode=BASE similarity=JS multiply=10 recall=31.01% mean=39.95 median=23.00
+mode=BASE similarity=PMI multiply=10 recall=29.63% mean=41.47 median=25.00
+mode=PCA similarity=CS multiply=10 recall=46.24% mean=28.14 median=12.00
+mode=PCA similarity=ACS multiply=10 recall=45.72% mean=29.24 median=12.00
+mode=PCA similarity=JS multiply=10 recall=45.15% mean=29.52 median=12.00
+mode=PCA similarity=PMI multiply=10 recall=45.10% mean=30.58 median=13.00
+mode=BASE similarity=CS multiply=20 recall=40.97% mean=25.18 median=15.00
+mode=BASE similarity=ACS multiply=20 recall=35.46% mean=36.37 median=19.00
+mode=BASE similarity=JS multiply=20 recall=32.21% mean=40.59 median=22.00
+mode=BASE similarity=PMI multiply=20 recall=30.67% mean=42.22 median=24.00
+mode=PCA similarity=CS multiply=20 recall=46.43% mean=27.79 median=12.00
+mode=PCA similarity=ACS multiply=20 recall=45.59% mean=29.43 median=12.00
+mode=PCA similarity=JS multiply=20 recall=45.36% mean=29.41 median=12.00
+mode=PCA similarity=PMI multiply=20 recall=44.94% mean=30.24 median=13.00
+mode=BASE similarity=CS multiply=50 recall=43.72% mean=25.05 median=14.00
+mode=BASE similarity=CS multiply=70 recall=44.11% mean=25.44 median=13.00
+mode=BASE similarity=CS multiply=100 recall=44.53% mean=26.15 median=14.00
+mode=BASE similarity=CS multiply=150 recall=44.40% mean=27.02 median=13.00
+mode=BASE similarity=CS multiply=200 recall=43.62% mean=27.78 median=14.00
+mode=BASE similarity=CS multiply=300 recall=42.94% mean=29.14 median=14.00
+mode=BASE similarity=CS multiply=500 recall=41.12% mean=31.03 median=16.00
+
+k=40
+
+mode=BASE similarity=CS multiply=10 recall=39.15% mean=26.03 median=16.00
+mode=PCA similarity=CS multiply=10 recall=46.14% mean=27.89 median=12.00
+mode=BASE similarity=CS multiply=20 recall=41.25% mean=24.80 median=15.00
+mode=PCA similarity=CS multiply=20 recall=46.17% mean=27.54 median=12.00
+mode=BASE similarity=CS multiply=40 recall=43.07% mean=24.34 median=14.00
+mode=PCA similarity=CS multiply=40 recall=46.45% mean=27.20 median=12.00
+mode=BASE similarity=CS multiply=60 recall=43.88% mean=24.62 median=13.00
+mode=PCA similarity=CS multiply=60 recall=46.43% mean=26.83 median=12.00
+mode=BASE similarity=CS multiply=80 recall=44.42% mean=25.15 median=13.00
+mode=PCA similarity=CS multiply=80 recall=45.91% mean=26.75 median=12.00
+mode=BASE similarity=CS multiply=100 recall=44.71% mean=25.66 median=13.00
+mode=PCA similarity=CS multiply=100 recall=45.59% mean=26.43 median=12.00
+mode=BASE similarity=CS multiply=120 recall=44.40% mean=26.19 median=13.00
+mode=PCA similarity=CS multiply=120 recall=45.67% mean=26.51 median=12.00
+mode=BASE similarity=CS multiply=140 recall=44.42% mean=26.58 median=14.00
+mode=PCA similarity=CS multiply=140 recall=45.39% mean=26.47 median=13.00
+mode=BASE similarity=CS multiply=160 recall=44.40% mean=27.01 median=14.00
+mode=PCA similarity=CS multiply=160 recall=45.31% mean=26.56 median=13.00
+mode=BASE similarity=CS multiply=200 recall=43.62% mean=27.35 median=14.00
+mode=PCA similarity=CS multiply=200 recall=45.18% mean=26.43 median=13.00
+
+
+

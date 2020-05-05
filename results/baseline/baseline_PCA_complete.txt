@@ -1,0 +1,70 @@
+mode=PCA similarity=CS k=10 recall=42.21% mean=32.91 median=14.00
+mode=PCA similarity=CS k=20 recall=45.52% mean=29.35 median=13.00
+mode=PCA similarity=CS k=30 recall=45.52% mean=28.66 median=13.00
+
+mode=PCA similarity=CS k=40 recall=46.04% mean=28.15 median=12.00
+
+mode=PCA similarity=CS k=50 recall=45.46% mean=27.98 median=13.00
+mode=PCA similarity=CS k=70 recall=44.81% mean=27.08 median=13.00
+mode=PCA similarity=CS k=100 recall=29.95% mean=59.41 median=28.00
+mode=PCA similarity=ACS k=10 recall=42.19% mean=37.70 median=14.00
+mode=PCA similarity=ACS k=20 recall=44.92% mean=32.01 median=13.00
+mode=PCA similarity=ACS k=30 recall=45.88% mean=29.98 median=13.00
+
+mode=PCA similarity=ACS k=40 recall=45.72% mean=29.18 median=12.00
+
+mode=PCA similarity=ACS k=50 recall=45.54% mean=29.06 median=12.00
+mode=PCA similarity=ACS k=70 recall=43.51% mean=27.93 median=14.00
+mode=PCA similarity=ACS k=100 recall=12.24% mean=100.38 median=143.00
+mode=PCA similarity=JS k=10 recall=42.11% mean=38.17 median=14.00
+mode=PCA similarity=JS k=20 recall=44.74% mean=32.32 median=13.00
+mode=PCA similarity=JS k=30 recall=45.41% mean=30.14 median=13.00
+
+mode=PCA similarity=JS k=40 recall=45.65% mean=29.40 median=12.00
+
+mode=PCA similarity=JS k=50 recall=45.39% mean=29.15 median=13.00
+mode=PCA similarity=JS k=70 recall=43.15% mean=28.23 median=14.00
+mode=PCA similarity=JS k=100 recall=12.32% mean=100.02 median=142.00
+mode=PCA similarity=PMI k=10 recall=41.85% mean=39.24 median=15.00
+mode=PCA similarity=PMI k=20 recall=44.45% mean=33.44 median=13.00
+mode=PCA similarity=PMI k=30 recall=44.76% mean=31.47 median=13.00
+
+mode=PCA similarity=PMI k=40 recall=45.20% mean=30.25 median=13.00
+
+mode=PCA similarity=PMI k=50 recall=45.07% mean=29.54 median=13.00
+mode=PCA similarity=PMI k=70 recall=42.76% mean=28.65 median=14.00
+mode=PCA similarity=PMI k=100 recall=12.22% mean=99.39 median=142.00
+
+
+KPCA：
+
+rbf:
+mode=PCA similarity=CS k=10 recall=42.55% mean=32.93 median=14.00
+mode=PCA similarity=CS k=20 recall=45.46% mean=29.48 median=13.00
+mode=PCA similarity=CS k=30 recall=45.78% mean=28.58 median=12.00
+mode=PCA similarity=CS k=40 recall=46.24% mean=28.29 median=12.00
+mode=PCA similarity=CS k=50 recall=45.62% mean=28.05 median=12.00
+mode=PCA similarity=CS k=70 recall=45.78% mean=27.10 median=12.00
+mode=PCA similarity=CS k=100 recall=29.84% mean=34.28 median=18.00
+
+sigmoid:
+mode=PCA similarity=CS k=10 recall=41.88% mean=32.44 median=14.00
+mode=PCA similarity=CS k=20 recall=44.87% mean=29.37 median=13.00
+mode=PCA similarity=CS k=30 recall=45.20% mean=28.60 median=13.00
+mode=PCA similarity=CS k=40 recall=44.97% mean=27.87 median=13.00
+mode=PCA similarity=CS k=50 recall=44.35% mean=27.81 median=13.00
+mode=PCA similarity=CS k=70 recall=43.38% mean=27.24 median=13.00
+mode=PCA similarity=CS k=100 recall=30.18% mean=36.40 median=18.00
+
+cosine:
+mode=PCA similarity=CS k=10 recall=39.95% mean=30.83 median=16.00
+mode=PCA similarity=CS k=20 recall=42.19% mean=27.10 median=15.00
+mode=PCA similarity=CS k=30 recall=43.05% mean=25.56 median=14.00
+mode=PCA similarity=CS k=40 recall=43.02% mean=24.84 median=14.00
+mode=PCA similarity=CS k=50 recall=42.71% mean=24.80 median=14.00
+mode=PCA similarity=CS k=70 recall=42.08% mean=25.16 median=14.00
+mode=PCA similarity=CS k=100 recall=39.95% mean=26.25 median=15.00
+
+
+
+
